@@ -19,22 +19,20 @@ Cricket Score Sheet project is a simple project built using the C programming la
       *You get to watch the game!
  #    4 W AND 1 H
       * WHO
-            Everyone can understand and enjoy the game.
-      * WHEN AND WHERE 
-            Anywhere and anytime ii can be applicable.
+           *Anywhere and anytime it can be applicable.
+       *WHEN AND WHERE
+           *Whenever the audience take chance to know the cricket scores.
        *WHAT
-             It is easy application to know the current cricket score status.
-       *HOW
-             This application is implemented by c programming function calls.
+            *This application is implemented by c programming function calls.
+       * HOW
+            * This project is implemented by basic c programing function calls.
              
  # HIGH LEVEL REQUIREMENTS 
-
             HLR_01 Visual Studio code Platform software.
             HLR_02 windows or linux OS software.
             
  # LOW LEVEL REQUIREMENTS
-
-`           LLR_01 Easy application to perform basic score calculating technique.
+            LLR_01 Easy application to perform basic score calculating technique.
             LLR_02 The app set up a boundary platform in which the technique is performed
             
 
