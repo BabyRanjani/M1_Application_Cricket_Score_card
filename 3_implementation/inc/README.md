@@ -1,4 +1,5 @@
-//Header Files used in the program//
+# Header Files used in the program
+
 #include<stdio.h>
 #include<dos.h>
 #include<windows.h>
