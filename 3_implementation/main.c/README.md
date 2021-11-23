@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 #include <stdlib.h>
+
 
 void req_rate(float a, float b, float c,float d,float e);
 void runs_needed(int a,int b,int c,int d, int e);
@@ -9,6 +11,8 @@ float curr_rate(float a, float b, float c);
 void ball_played(int *a,int *b,int *c,int *d,int *e,int *f,int *g,int *h,int *i, int *j);
 int string_comp(char a[],char b[],char c[]);
 float curr_rate(float a, float b, float c);
+
+
 int main(int argc, char *argv[]) {
 	int wd=0,nb=0,lb=0,b=0,extras=0,overs=0,T_overs=0, k=0,balls=0, T=0,score=0,wickets=0, target=0,q=0,c[11],j=1,f=0,s=0;
 	float c_rate;
