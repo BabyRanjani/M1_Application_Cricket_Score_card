@@ -1,6 +1,6 @@
 #  INTRODUCTION
 
-      * This Cricket Score Management System Project in C Language is a simple console application created using C programming language. It employs file handling to store data such as runs, wickets, overs, and extras, among other things. The program may show runs, wickets, batsman and bowler names, overs, extras, bowler economy, batsman strike rate, and so on. It also shows the game’s start and end times.
+     This Cricket Score Management System Project in C Language is a simple console application created using C programming language. It employs file handling to store data such as runs, wickets, overs, and extras, among other things. The program may show runs, wickets, batsman and bowler names, overs, extras, bowler economy, batsman strike rate, and so on. It also shows the game’s start and end times.
 
 # SWOT ANALYSIS
 
