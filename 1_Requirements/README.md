@@ -11,7 +11,7 @@ This Cricket Score Management System Project in C Language is a simple console a
  The source code is  complete,error free and easy to understand.
 # WEAKNESS
 
- The biggest disadvantage of online accounting is that you can no longer do without the internet. If you are not connected, you cannot access your accounting. Also, you unfortunately never have a 100% guarantee that data cannot be hacked online.
+ The biggest disadvantage of online viewing is that you can no longer do without the internet. If you are not connected, you cannot access your accounting. Also, you unfortunately never have a 100% guarantee that data cannot be hacked online.
 # OPPORTUNITY
 
   It requires concentration and commitment
