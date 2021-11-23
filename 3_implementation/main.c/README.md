@@ -4,41 +4,70 @@
 
 
 void req_rate(float a, float b, float c,float d,float e);
+
 void runs_needed(int a,int b,int c,int d, int e);
+
 void projected_score(int a,int b,int c,int d,float e);
+
 void result(int a,int b,int e,int g,char f,char c[],char d[]);
+
 float curr_rate(float a, float b, float c);
+
+
 void ball_played(int *a,int *b,int *c,int *d,int *e,int *f,int *g,int *h,int *i, int *j);
+
 int string_comp(char a[],char b[],char c[]);
+
 float curr_rate(float a, float b, float c);
 
 
 int main(int argc, char *argv[]) {
+
 	int wd=0,nb=0,lb=0,b=0,extras=0,overs=0,T_overs=0, k=0,balls=0, T=0,score=0,wickets=0, target=0,q=0,c[11],j=1,f=0,s=0;
+        
 	float c_rate;
+        
 	char toss[15], team_1[15], team_2[15], choice, runs;
+        
 	printf("Match between:\n");
+        
 	gets(team_1);
+        
 	printf("versus\n");
 	gets(team_2);
 	printf("Toss won by: ");
 	gets(toss);
-	printf("Enter B to choose bat first and F to field first: ");
+        
+	printf("Enter B to choose bat first and F to field first: 
+        
 	scanf("%c",&choice);
+        
 	printf("Enter overs to be played by each side: ");
+        
+        
 	scanf("%d",&T_overs);
+        
 	system("cls");
+        
 	T=string_comp(team_1,team_2,toss);
+        
 	while(overs<=T_overs||overs>=T_overs){
+        
 		do{
-			if(wickets>q){
+                
+			if(wickets>q){    
+                        
 				*(c+wickets)=score;
 			}
 			q=wickets;
+                        
 			system("cls");
+                        
 			printf("\t\t\t%s vs %s (%d-overs match)\n",team_1,team_2,T_overs);
+                        
 			if(T==1){
 				if(choice=='B'||choice=='b'){
+                                
 					printf("%s won the toss and elected to bat first\n",team_1);
 					printf("\n\n%s %d-%d\t\tovers %d.%d\t\t",team_1,score,wickets,overs,balls);
 				}
