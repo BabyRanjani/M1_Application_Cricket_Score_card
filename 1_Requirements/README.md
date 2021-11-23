@@ -14,21 +14,23 @@ This Cricket Score Management System Project in C Language is a simple console a
  The biggest disadvantage of online accounting is that you can no longer do without the internet. If you are not connected, you cannot access your accounting. Also, you unfortunately never have a 100% guarantee that data cannot be hacked online.
 # OPPORTUNITY
 
-      *It requires concentration and commitment
-      *You should be familiar with the rules of cricket
-      *It can be complicated at times
-      *Every ball must be recorded
-      *You CAN enjoy it
-      *You get to watch the game!
+  It requires concentration and commitment
+  You should be familiar with the rules of cricket
+  It can be complicated at times
+  Every ball must be recorded
+  You CAN enjoy it
+  You get to watch the game!
+  
  #    4 W AND 1 H
+ 
  # WHO
-           *Anywhere and anytime it can be applicable.
+           Anywhere and anytime it can be applicable.
  # WHEN AND WHERE
-           *Whenever the audience take chance to know the cricket scores.
+           Whenever the audience take chance to know the cricket scores.
  # WHAT
-            *This application is implemented by c programming function calls.
+           This application is implemented by c programming function calls.
  # HOW
-            * This project is implemented by basic c programing function calls.
+            This project is implemented by basic c programing function calls.
              
  # HIGH LEVEL REQUIREMENTS 
             HLR_01 Visual Studio code Platform software.
