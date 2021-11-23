@@ -6,12 +6,12 @@ This Cricket Score Management System Project in C Language is a simple console a
 
 # STRENGTH
 
-       * The program can display runs, wickets,extras,names of the batsman,overs,economy bowler,stricke rate of the game.
-       * It also displays the date and time of the game.
-       *The source code is  complete,error free and easy to understand.
+ The program can display runs, wickets,extras,names of the batsman,overs,economy bowler,stricke rate of the game.
+ It also displays the date and time of the game.
+ The source code is  complete,error free and easy to understand.
 # WEAKNESS
 
-       * The biggest disadvantage of online accounting is that you can no longer do without the internet. If you are not connected, you cannot access your accounting. Also, you unfortunately never have a 100% guarantee that data cannot be hacked online.
+ The biggest disadvantage of online accounting is that you can no longer do without the internet. If you are not connected, you cannot access your accounting. Also, you unfortunately never have a 100% guarantee that data cannot be hacked online.
 # OPPORTUNITY
 
       *It requires concentration and commitment
@@ -21,13 +21,13 @@ This Cricket Score Management System Project in C Language is a simple console a
       *You CAN enjoy it
       *You get to watch the game!
  #    4 W AND 1 H
-      * WHO
+ # WHO
            *Anywhere and anytime it can be applicable.
-       *WHEN AND WHERE
+ # WHEN AND WHERE
            *Whenever the audience take chance to know the cricket scores.
-       *WHAT
+ # WHAT
             *This application is implemented by c programming function calls.
-       * HOW
+ # HOW
             * This project is implemented by basic c programing function calls.
              
  # HIGH LEVEL REQUIREMENTS 
